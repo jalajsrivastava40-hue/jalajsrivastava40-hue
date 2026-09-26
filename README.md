@@ -12,12 +12,6 @@
 
 <p>Building intelligent systems with clean architecture, robust backends, and scalable solutions.</p>
 
-<p align="center">
-  <a href="https://github.com/jalajsrivastava40-hue">
-    <img src="https://komarev.com/ghpvc/?username=jalajsrivastava40-hue&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 <!-- ABOUT ME SPLIT VIEW (CODE + IMAGE) -->
