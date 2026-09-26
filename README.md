@@ -7,12 +7,6 @@
   <em>B.Tech IT Student • Aspiring AI Engineer • Passionate Problem Solver</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/jalajsrivastava40-hue">
-    <img src="https://komarev.com/ghpvc/?username=jalajsrivastava40-hue&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ### ⚡ About Me
@@ -56,9 +50,7 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/
-jalaj-srivastava-83954537b
-" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jalaj-srivastava-83954537b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jalajsrivastava40@gmail.com">
